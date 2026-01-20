@@ -1,62 +1,45 @@
-# Bhawana08data
-# 📊 Data Analytics Projects  
-### 👩‍💼 Bhawana Vishwakarma
-
-Welcome to my GitHub repository!  
-This repository contains my **Data Analytics practice and portfolio projects**, where I apply analytical techniques to extract insights from data using industry-relevant tools.
+# 🐍 Python Capstone Project – Data Analysis
+## By Bhawana Vishwakarma
 
 ---
 
-## 🧑‍💻 About Me
-I am an aspiring **Data Analyst** with a strong foundation in data analysis, visualization, and reporting.  
-I enjoy working with data to solve business problems and create meaningful insights.
-
-🎓 **Education**
-- MBA (Finance & HR)
-- M.Sc. IT
-- BCA
+## 📌 Project Description
+This capstone project is part of my **Python Fundamentals learning**, where I performed data analysis using Python to understand cost-related data and extract meaningful insights.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Excel:** Pivot Tables, VLOOKUP, Charts, Dashboards  
-- **SQL:** Joins, Subqueries, Group By, Aggregate Functions  
-- **Python:** Pandas, NumPy (Data Cleaning & Analysis)  
-- **Power BI:** Interactive Dashboards & Reports  
-- **Statistics:** Descriptive Statistics, Trend Analysis  
-- **Data Visualization & Data Cleaning**
+## 🛠️ Tools & Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
-## 📁 Projects Included
-### 🔹 Excel Projects
-- Sales Performance Dashboard  
-- Customer Analysis using Pivot Tables  
-
-### 🔹 SQL Projects
-- SQL Queries for Data Analysis  
-- Practice problems using Joins, Group By, Case Statements  
-
-### 🔹 Python Projects
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-
-### 🔹 Power BI Projects
-- Business Insights Dashboard  
-- Visual storytelling using charts and KPIs  
+## 📊 Key Activities
+- Importing and exploring the dataset  
+- Data cleaning and preprocessing  
+- Performing calculations and aggregations  
+- Analyzing total project cost data  
+- Visualizing insights using charts  
 
 ---
 
-## 🎯 Objective
-To continuously improve my analytical skills and build **real-world data analytics projects** that demonstrate my ability to work with data and support data-driven decision-making.
+## 📁 Files Included
+- `Capstone_Project.ipynb` – Python analysis notebook  
+- `TotalProjCost.xlsx` – Dataset used for analysis  
+- `Capstone project - Python Fundamentals.pdf` – Project problem statement  
 
 ---
 
-## 📬 Contact
-- **Name:** Bhawana Vishwakarma  
-- **Location:** India  
+## 🎯 Learning Outcome
+- Strong understanding of Python fundamentals  
+- Hands-on experience with Pandas & NumPy  
+- Practical exposure to data analysis workflow  
 
 ---
 
-⭐ Feel free to explore my projects and connect with me!
+⭐ This project is created for learning and portfolio purposes.
+
 
